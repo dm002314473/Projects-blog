@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Discover the secrets of sustainable gardening and transform your backyard into a lush oasis. Learn eco-friendly tips, plant care essentials, and creative DIY projects for a greener tomorrow. Explore now",
+      "author": "karmen",
+      "id": "1"
+    },
+    {
+      "title": "Welcome",
+      "body": "Dive into the world of mindfulness and unlock inner peace through meditation. Explore practical techniques, calming practices, and expert insights for a balanced life journey. Start your mindful adventure today!",
+      "author": "duje",
+      "id": "2"
+    },
+    {
+      "id": "c639",
+      "title": "Duje",
+      "body": "Prvi format",
+      "author": "karmen"
+    },
+    {
+      "id": "d6b7",
+      "title": "Treci",
+      "body": "kkkkdkdkkdkddkkdkdfkkdkkd",
+      "author": "duje"
+    }
+  ]
+}
